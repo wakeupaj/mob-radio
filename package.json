@@ -1,0 +1,19 @@
+{
+  "name": "mob-radio",
+  "version": "1.0.0",
+  "description": "Mob's Personal Full Service Music Bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aj",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^14.13.0",
+    "libsodium-wrappers": "^0.7.13",
+    "valid-url": "^1.0.9",
+    "ytdl-core": "^4.11.5",
+    "ytsr": "^3.8.4"
+  }
+}
