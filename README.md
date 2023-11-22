@@ -23,8 +23,8 @@ Use these commands with the prefix `$`:
 To set up `MobRadio` in your Discord server, follow these steps:
 
 1. [Add bot to your server](https://discord.com/oauth2/authorize?client_id=1165904123229642772&permissions=8&redirect_uri=http://localhost:53134&response_type=code&scope=bot)
-2. Run `$set` 
-3. Run `$help`
+2. Run `$set` in the channel you would like to listen for commands in.
+3. Run `$help`.
 
 ## Dependencies
 - discord.js
